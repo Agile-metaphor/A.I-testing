@@ -1,0 +1,10 @@
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\bin\Debug\A.I.exe.config
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\bin\Debug\A.I.exe
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\bin\Debug\A.I.pdb
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\obj\Debug\A.I.csprojAssemblyReference.cache
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\obj\Debug\A.I.Properties.Resources.resources
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\obj\Debug\A.I.csproj.GenerateResource.cache
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\obj\Debug\A.I.csproj.CoreCompileInputs.cache
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\obj\Debug\A.I.exe
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\obj\Debug\A.I.pdb
+C:\Users\Baba\Desktop\Movement_Energy Calc\A.I\A.I\obj\Debug\A.I.Form1.resources
